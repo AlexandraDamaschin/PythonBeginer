@@ -9,3 +9,10 @@ mv_population = 12345
 mv_area = 11.23
 mv_density = mv_population / mv_area
 print(mv_density)
+
+# decrease by 10%
+mv_population *= 0.9
+
+# decrease by 5%
+mv_population *= 0.95
+
