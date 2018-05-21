@@ -35,3 +35,8 @@ print(san_francisco_pop_density > rio_de_janeiro_pop_density)
 # strings
 welcome = 'Hello world'
 print(welcome)
+
+# length of a string
+welcome_length = len(welcome)
+print(welcome_length)
+
