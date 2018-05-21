@@ -40,3 +40,5 @@ print(welcome)
 welcome_length = len(welcome)
 print(welcome_length)
 
+# index into strings
+print(welcome[1])
