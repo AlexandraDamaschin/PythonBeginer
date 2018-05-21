@@ -18,3 +18,6 @@ mv_population *= 0.95
 
 # print type of inputted value
 print(type(4.0))
+
+# convert int to float
+print(int(2.3))
