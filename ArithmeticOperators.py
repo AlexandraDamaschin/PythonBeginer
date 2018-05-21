@@ -16,3 +16,5 @@ mv_population *= 0.9
 # decrease by 5%
 mv_population *= 0.95
 
+# print type of inputted value
+print(type(4.0))
