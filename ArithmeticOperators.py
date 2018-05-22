@@ -103,3 +103,7 @@ print(first_half)
 
 second_half = months[3:]
 print(second_half)
+
+# 19. membership operators
+print('isa' in 'this is a string')
+print(5 not in [1, 2, 3, 4, 6])
