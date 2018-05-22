@@ -89,3 +89,7 @@ print("The sum of 1 + 2 is {0}".format(1 + 2))
 print('   spacious   '.lstrip())
 print('www.example.com'.lstrip('cmowz.'))
 print('1,2,3'.split(','))
+
+# 17. negative indexes
+months = ['JAN', 'FEB', 'MARCH', 'APRIL']
+print(months[-1])
