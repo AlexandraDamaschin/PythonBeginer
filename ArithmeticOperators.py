@@ -80,3 +80,12 @@ print("This week's total sales: " + str(total_sales))
 
 # 15.count fish
 print("One fish, Two fish, Red FISH, blue Fish".count("fish"))
+
+# 16. Build in types
+print('01\t012\t0123\t01234'.expandtabs())
+print('01\t012\t0123\t01234'.expandtabs(4))
+print('Py' in 'Python')
+print("The sum of 1 + 2 is {0}".format(1 + 2))
+print('   spacious   '.lstrip())
+print('www.example.com'.lstrip('cmowz.'))
+print('1,2,3'.split(','))
