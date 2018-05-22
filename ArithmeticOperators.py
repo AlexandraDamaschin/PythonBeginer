@@ -91,5 +91,15 @@ print('www.example.com'.lstrip('cmowz.'))
 print('1,2,3'.split(','))
 
 # 17. negative indexes
-months = ['JAN', 'FEB', 'MARCH', 'APRIL']
+months = ['JAN', 'FEB', 'MARCH', 'APRIL', 'MARCH', 'JUN', 'JUL']
 print(months[-1])
+
+# 18. slices of indexes
+q3 = months[3:5]
+print(q3)
+
+first_half = months[:3]
+print(first_half)
+
+second_half = months[3:]
+print(second_half)
