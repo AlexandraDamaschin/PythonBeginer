@@ -107,3 +107,12 @@ print(second_half)
 # 19. membership operators
 print('isa' in 'this is a string')
 print(5 not in [1, 2, 3, 4, 6])
+
+# 20. Month days
+month = 8
+days_in_month = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+
+# use list indexing to determine the number of days in month
+num_days = days_in_month[7]
+
+print(num_days)
