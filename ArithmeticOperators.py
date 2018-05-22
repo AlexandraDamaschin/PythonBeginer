@@ -77,3 +77,6 @@ thurs_sales = int(thurs_sales)
 fri_sales = int(fri_sales)
 total_sales = (mon_sales + tues_sales + wed_sales + thurs_sales + fri_sales)
 print("This week's total sales: " + str(total_sales))
+
+# 15.count fish
+print("One fish, Two fish, Red FISH, blue Fish".count("fish"))
