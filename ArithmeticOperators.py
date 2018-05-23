@@ -135,3 +135,8 @@ print(new_str)
 
 name = "-".join(["García", "O'Kelly"])
 print(name)
+
+# 24. Append
+letters = ['a', 'b', 'c', 'd']
+letters.append('z')
+print(letters)
