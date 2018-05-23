@@ -128,3 +128,10 @@ print(eclipse_dates[-3:])
 # 22. Max in a string prints last event after being ordinated alphabetical.
 variables = {'a', 'b', 's', 'w', 'e', 'i'}
 print(max(variables))
+
+# 23. Join
+new_str = "\n".join(["fore", "aft", "starboard", "port"])
+print(new_str)
+
+name = "-".join(["García", "O'Kelly"])
+print(name)
