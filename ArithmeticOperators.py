@@ -124,3 +124,7 @@ eclipse_dates = ['June 21, 2001', 'December 4, 2002', 'November 23, 2003',
                  'March 9, 2016']
 
 print(eclipse_dates[-3:])
+
+# 22. Max in a string prints last event after being ordinated alphabetical.
+variables = {'a', 'b', 's', 'w', 'e', 'i'}
+print(max(variables))
