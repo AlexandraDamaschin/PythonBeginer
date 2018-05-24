@@ -20,3 +20,10 @@ elif season == 'winter':
     print('stay indoors!')
 else:
     print('unrecognized season')
+
+# 3. Odd and Even numbers
+number = 146
+if number % 2 == 0:
+    print("Number " + str(number) + " is even.")
+else:
+    print("Number " + str(number) + " is odd.")
