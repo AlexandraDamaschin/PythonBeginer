@@ -65,3 +65,16 @@ elif points <= 200:
     print("Congratulations! You won a " + result)
 else:
     print("Oh dear, no prize this time. ")
+
+# 6. Guess the number
+answer = 12
+guess = 23
+
+if guess < answer:
+    result = "Oops!  Your guess was too low."
+elif guess > answer:
+    result = "Oops!  Your guess was too high."
+elif guess == answer:
+    result = "Nice!  Your guess matched the answer!"
+
+print(result)
