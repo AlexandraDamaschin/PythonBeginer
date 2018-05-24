@@ -166,3 +166,15 @@ elements["lithium"] = 3  # insert "lithium" with a value of 3 into the dictionar
 print(elements)
 print("carbon" in elements)  # check if carbon is in elements
 print(elements.get("dilithium"))  # get value of dilithium from elements
+
+# 28. Dictionaries in Dictionaries
+elements = {"hydrogen": {"number": 1,
+                         "weight": 1.00794,
+                         "symbol": "H"},
+            "helium": {"number": 2,
+                       "weight": 4.002602,
+                       "symbol": "He"}}
+helium = elements["helium"]  # get the helium dictionary
+hydrogen_weight = elements["hydrogen"]["weight"]  # get hydrogen's weight
+print(helium)
+print(hydrogen_weight)
