@@ -148,3 +148,14 @@ print("Longitude:", location[1])
 
 length, width, height = 52, 40, 100
 print("The dimensions are {} x {} x {}".format(length, width, height))
+
+# 26. Sets remove duplicates
+fruit = {"apple", "banana", "orange", "grapefruit"}  # define a set
+print("watermelon" in fruit)  # check for element
+
+fruit.add("watermelon")  # add an element
+print(fruit)
+
+print(fruit.pop())  # remove a random element
+print(fruit)
+
