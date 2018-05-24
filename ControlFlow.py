@@ -69,7 +69,7 @@ else:
 # 6. Guess the number
 answer = 12
 guess = 23
-
+# logic implemented
 if guess < answer:
     result = "Oops!  Your guess was too low."
 elif guess > answer:
