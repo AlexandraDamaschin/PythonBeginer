@@ -30,14 +30,14 @@ else:
 
 # 4. Bus ride cost
 age = 12
-
+# ages types
 free_up_to_age = 4
 child_up_to_age = 18
 senior_from_age = 65
-# These lines set the bus fares
+# set the bus fares
 concession_ticket = 1.25
 adult_ticket = 2.50
-# Here is the ticket price logic
+# ticket price logic
 if age <= free_up_to_age:
     ticket_price = 0
 elif age <= child_up_to_age:
@@ -50,7 +50,7 @@ message = "Somebody who is {} years old will pay ${} to ride the bus.".format(ag
 print(message)
 
 # 5. Prizes
-points = 174  # use this input when submitting your answer
+points = 174
 if points <= 50:
     result = "wooden rabbit"
     print("Congratulations! You won a " + result)
@@ -76,7 +76,6 @@ elif guess > answer:
     result = "Oops!  Your guess was too high."
 elif guess == answer:
     result = "Nice!  Your guess matched the answer!"
-
 print(result)
 
 # 7. States taxes
