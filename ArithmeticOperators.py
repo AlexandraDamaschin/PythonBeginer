@@ -159,3 +159,10 @@ print(fruit)
 print(fruit.pop())  # remove a random element
 print(fruit)
 
+# 27. Dictionaries
+elements = {"hydrogen": 1, "helium": 2, "carbon": 6}
+print(elements["helium"])  # print the value mapped to "helium"
+elements["lithium"] = 3  # insert "lithium" with a value of 3 into the dictionary
+print(elements)
+print("carbon" in elements)  # check if carbon is in elements
+print(elements.get("dilithium"))  # get value of dilithium from elements
