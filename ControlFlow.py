@@ -48,3 +48,20 @@ else:
     ticket_price = adult_ticket
 message = "Somebody who is {} years old will pay ${} to ride the bus.".format(age, ticket_price)
 print(message)
+
+# 5. Prizes
+points = 174  # use this input when submitting your answer
+if points <= 50:
+    result = "wooden rabbit"
+    print("Congratulations! You won a " + result)
+elif points <= 150:
+    result = "no prize"
+    print("Congratulations! You won a " + result)
+elif points <= 180:
+    result = "wafer-thin mint"
+    print("Congratulations! You won a " + result)
+elif points <= 200:
+    result = "penguin"
+    print("Congratulations! You won a " + result)
+else:
+    print("Oh dear, no prize this time. ")
