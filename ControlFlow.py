@@ -179,3 +179,14 @@ for item in items:
 html_str += "</ul>"
 
 print(html_str)
+
+# 17. Iterating Through Dictionaries with For Loops
+cast = {
+    "Jerry Seinfeld": "Jerry Seinfeld",
+    "Julia Louis-Dreyfus": "Elaine Benes",
+    "Jason Alexander": "George Costanza",
+    "Michael Richards": "Cosmo Kramer"
+}
+
+for key, value in cast.items():
+    print("Actor: {}    Role: {}".format(key, value))
