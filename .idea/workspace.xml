@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dab7fa44-398f-4e13-a834-795babad0b3d" name="Default" comment="" />
+    <list default="true" id="dab7fa44-398f-4e13-a834-795babad0b3d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlow.py" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlow.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +17,8 @@
       <file leaf-file-name="ControlFlow.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ControlFlow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="172" column="34" lean-forward="true" selection-start-line="172" selection-start-column="5" selection-end-line="172" selection-end-column="34" />
+            <state relative-caret-position="354">
+              <caret line="215" selection-start-line="215" selection-end-line="215" />
             </state>
           </provider>
         </entry>
@@ -40,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="800" />
     <option name="width" value="800" />
     <option name="height" value="866" />
@@ -206,11 +209,25 @@
       <option name="project" value="LOCAL" />
       <updated>1527329488639</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Iterating Through Dictionaries with For Loops">
+      <created>1527329784135</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1527329784135</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Count by iterating through the list">
+      <created>1527330449651</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1527330449651</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="800" y="0" width="800" height="866" extended-state="0" />
+    <frame x="-9" y="-9" width="1618" height="884" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5230179" />
@@ -218,7 +235,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928476" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34301522" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33468285" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -273,7 +290,9 @@
     <MESSAGE value="For loops" />
     <MESSAGE value="for practice" />
     <MESSAGE value=" Iterating through html items" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Iterating through html items" />
+    <MESSAGE value="Iterating Through Dictionaries with For Loops" />
+    <MESSAGE value="Count by iterating through the list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Count by iterating through the list" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ControlFlow.py">
@@ -344,8 +363,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ControlFlow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="172" column="34" lean-forward="true" selection-start-line="172" selection-start-column="5" selection-end-line="172" selection-end-column="34" />
+        <state relative-caret-position="354">
+          <caret line="215" selection-start-line="215" selection-end-line="215" />
         </state>
       </provider>
     </entry>
