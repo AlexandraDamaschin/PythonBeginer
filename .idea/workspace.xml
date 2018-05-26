@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dab7fa44-398f-4e13-a834-795babad0b3d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ControlFlow.py" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlow.py" afterDir="false" />
-    </list>
+    <list default="true" id="dab7fa44-398f-4e13-a834-795babad0b3d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +14,8 @@
       <file leaf-file-name="ControlFlow.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ControlFlow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="234" column="33" lean-forward="true" selection-start-line="234" selection-start-column="6" selection-end-line="234" selection-end-column="33" />
+            <state relative-caret-position="231">
+              <caret line="242" column="31" lean-forward="true" selection-start-line="242" selection-start-column="6" selection-end-line="242" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -43,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="800" />
     <option name="width" value="800" />
     <option name="height" value="866" />
@@ -230,7 +227,21 @@
       <option name="project" value="LOCAL" />
       <updated>1527330666565</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Factorials with While Loops">
+      <created>1527332698061</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1527332698061</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Factorials with For Loops">
+      <created>1527333518186</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1527333518186</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -300,7 +311,9 @@
     <MESSAGE value="Iterating Through Dictionaries with For Loops" />
     <MESSAGE value="Count by iterating through the list" />
     <MESSAGE value="Fruit or not fruit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fruit or not fruit" />
+    <MESSAGE value="Factorials with While Loops" />
+    <MESSAGE value="Factorials with For Loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Factorials with For Loops" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ControlFlow.py">
@@ -371,8 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ControlFlow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="234" column="33" lean-forward="true" selection-start-line="234" selection-start-column="6" selection-end-line="234" selection-end-column="33" />
+        <state relative-caret-position="231">
+          <caret line="242" column="31" lean-forward="true" selection-start-line="242" selection-start-column="6" selection-end-line="242" selection-end-column="31" />
         </state>
       </provider>
     </entry>
