@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dab7fa44-398f-4e13-a834-795babad0b3d" name="Default" comment="" />
+    <list default="true" id="dab7fa44-398f-4e13-a834-795babad0b3d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlFlow.py" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlow.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +17,8 @@
       <file leaf-file-name="ControlFlow.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ControlFlow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="242" column="31" lean-forward="true" selection-start-line="242" selection-start-column="6" selection-end-line="242" selection-end-column="31" />
+            <state relative-caret-position="183">
+              <caret line="300" column="13" selection-start-line="300" selection-start-column="13" selection-end-line="300" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -241,11 +244,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527333518186</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="counts">
+      <created>1527337083230</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1527337083230</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="800" y="0" width="800" height="866" extended-state="0" />
+    <frame x="-9" y="-9" width="1618" height="884" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5230179" />
@@ -253,7 +263,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928476" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34301522" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33468285" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -313,7 +323,8 @@
     <MESSAGE value="Fruit or not fruit" />
     <MESSAGE value="Factorials with While Loops" />
     <MESSAGE value="Factorials with For Loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Factorials with For Loops" />
+    <MESSAGE value="counts" />
+    <option name="LAST_COMMIT_MESSAGE" value="counts" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ControlFlow.py">
@@ -384,8 +395,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ControlFlow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="242" column="31" lean-forward="true" selection-start-line="242" selection-start-column="6" selection-end-line="242" selection-end-column="31" />
+        <state relative-caret-position="183">
+          <caret line="300" column="13" selection-start-line="300" selection-start-column="13" selection-end-line="300" selection-end-column="13" />
         </state>
       </provider>
     </entry>
