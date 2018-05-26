@@ -144,3 +144,28 @@ capitalized_cities = []
 for city in cities:
     capitalized_cities.append(city.title())
     print(capitalized_cities)
+
+# 13. Replace " " with "_"
+names = ["Joey Tribbiani", "Monica Geller", "Chandler Bing", "Phoebe Buffay"]
+usernames = []
+
+# write your for loop here
+for name in names:
+    usernames.append(name.lower().replace(" ", "_"))
+
+print(usernames)
+
+# 14.Modify usernames with Range
+for i in range(len(usernames)):
+    usernames[i] = usernames[i].lower().replace(" ", "_")
+
+print(usernames)
+
+# 15. Count in a list
+tokens = ['<greeting>', 'Hello World!', '</greeting>']
+count = 0
+
+for token in tokens:
+    if token[0] == '<' and token[-1] == '>':
+        count += 1
+print(count)
