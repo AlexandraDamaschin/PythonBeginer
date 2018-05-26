@@ -169,3 +169,13 @@ for token in tokens:
     if token[0] == '<' and token[-1] == '>':
         count += 1
 print(count)
+
+# 16. Iterating through html items
+items = ['first string', 'second string']
+html_str = "<ul>\n"
+
+for item in items:
+    html_str += "<li>{}</li>\n".format(item)
+html_str += "</ul>"
+
+print(html_str)
