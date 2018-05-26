@@ -214,3 +214,28 @@ for fruit, count in basket_items.items():
         not_fruit_count += count
 
 print("The number of fruits is {}.  There are {} items that are not fruits.".format(fruit_count, not_fruit_count))
+
+# 20. While loops
+card_deck = [4, 11, 8, 5, 13, 2, 8, 10]
+hand = []
+
+# adds the last element of the card_deck list to the hand list
+# until the values in hand add up to 17 or more
+while sum(hand) < 17:
+    hand.append(card_deck.pop())
+    print(hand)
+
+# 21. Print characters diveided
+print_str = "Water falls"
+i = 0
+while i < len(print_str):
+    print(print_str[i])
+    i = i + 1
+
+# 22. Factorials with While Loops
+number = 6
+factorial = 1
+while number > 1:
+    factorial = factorial * number
+    number = number - 1
+print(factorial)

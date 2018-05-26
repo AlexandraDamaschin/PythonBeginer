@@ -17,8 +17,8 @@
       <file leaf-file-name="ControlFlow.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ControlFlow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="215" selection-start-line="215" selection-end-line="215" />
+            <state relative-caret-position="126">
+              <caret line="234" column="33" lean-forward="true" selection-start-line="234" selection-start-column="6" selection-end-line="234" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -43,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="800" />
     <option name="width" value="800" />
     <option name="height" value="866" />
@@ -223,11 +223,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527330449651</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Fruit or not fruit">
+      <created>1527330666565</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1527330666565</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1618" height="884" extended-state="6" />
+    <frame x="800" y="0" width="800" height="866" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5230179" />
@@ -235,7 +242,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928476" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33468285" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34301522" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -292,7 +299,8 @@
     <MESSAGE value=" Iterating through html items" />
     <MESSAGE value="Iterating Through Dictionaries with For Loops" />
     <MESSAGE value="Count by iterating through the list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Count by iterating through the list" />
+    <MESSAGE value="Fruit or not fruit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fruit or not fruit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ControlFlow.py">
@@ -363,8 +371,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ControlFlow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="215" selection-start-line="215" selection-end-line="215" />
+        <state relative-caret-position="126">
+          <caret line="234" column="33" lean-forward="true" selection-start-line="234" selection-start-column="6" selection-end-line="234" selection-end-column="33" />
         </state>
       </provider>
     </entry>
