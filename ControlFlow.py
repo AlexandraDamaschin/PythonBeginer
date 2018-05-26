@@ -190,3 +190,14 @@ cast = {
 
 for key, value in cast.items():
     print("Actor: {}    Role: {}".format(key, value))
+
+# 18. Count by iterating through the list
+result = 0
+basket_items = {'apples': 4, 'oranges': 19, 'kites': 3, 'sandwiches': 8}
+fruits = ['apples', 'oranges', 'pears', 'peaches', 'grapes', 'bananas']
+
+for fruit, count in basket_items.items():
+    if fruit in fruits:
+        result += count
+
+print("There are {} fruits in the basket.".format(result))
