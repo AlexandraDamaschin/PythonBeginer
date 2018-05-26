@@ -239,3 +239,8 @@ while number > 1:
     factorial = factorial * number
     number = number - 1
 print(factorial)
+
+# 23. Factorials with For Loops
+for i in range(1, number + 1):
+    factorial = factorial * i
+print(factorial)
