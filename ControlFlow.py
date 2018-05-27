@@ -390,3 +390,16 @@ for i, character in enumerate(cast):
     cast[i] = character + " " + str(heights[i])
 
 print(cast)
+
+# 37. List Comprehensions
+# for loop
+capitalized_cities = [city.title() for city in cities]
+print(capitalized_cities)
+# for and if
+squares = [x ** 2 for x in range(9) if x % 2 == 0]
+print(squares)
+# if else and for
+squares_2 = [x ** 2 if x % 2 == 0 else x + 3 for x in range(9)]
+print(squares_2)
+squares_3 = [x ** 2 if x % 2 == 0 else x + 3 for x in range(9)]
+print(squares_3)

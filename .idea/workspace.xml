@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab7fa44-398f-4e13-a834-795babad0b3d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ControlFlow.py" beforeDir="false" afterPath="$PROJECT_DIR$/ControlFlow.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +17,8 @@
       <file leaf-file-name="ControlFlow.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ControlFlow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="338" column="10" selection-start-line="338" selection-start-column="10" selection-end-line="338" selection-end-column="10" />
+            <state relative-caret-position="375">
+              <caret line="394" lean-forward="true" selection-start-line="394" selection-end-line="394" />
             </state>
           </provider>
         </entry>
@@ -271,7 +272,28 @@
       <option name="project" value="LOCAL" />
       <updated>1527425971639</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Zip">
+      <created>1527426060073</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1527426060073</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Enumerate">
+      <created>1527426097599</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1527426097599</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Enumerate exercises">
+      <created>1527426597248</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1527426597248</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -283,7 +305,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928476" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34301522" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34301522" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -346,7 +368,10 @@
     <MESSAGE value="counts" />
     <MESSAGE value="Ship- method 1 and 2" />
     <MESSAGE value=" Break the string" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Break the string" />
+    <MESSAGE value="Zip" />
+    <MESSAGE value="Enumerate" />
+    <MESSAGE value="Enumerate exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enumerate exercises" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ControlFlow.py">
@@ -424,8 +449,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ControlFlow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="338" column="10" selection-start-line="338" selection-start-column="10" selection-end-line="338" selection-end-column="10" />
+        <state relative-caret-position="375">
+          <caret line="394" lean-forward="true" selection-start-line="394" selection-end-line="394" />
         </state>
       </provider>
     </entry>
