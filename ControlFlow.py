@@ -327,7 +327,7 @@ headlines = ["Local Bear Eaten by Man",
              "Brave Knight Runs Away",
              "Papperbok Review: Totally Triffic"]
 news_ticker = ""
-# write your loop here
+
 for headline in headlines:
     news_ticker += headline + " "
     if len(news_ticker) >= 140:
