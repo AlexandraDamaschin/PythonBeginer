@@ -335,3 +335,10 @@ for headline in headlines:
         break
 
 print(news_ticker)
+
+# 30. Zip
+letters = ['a', 'b', 'c']
+nums = [1, 2, 3]
+
+for letter, num in zip(letters, nums):
+    print("{}: {}".format(letter, num))
