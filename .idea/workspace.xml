@@ -17,8 +17,8 @@
       <file leaf-file-name="ControlFlow.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ControlFlow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="300" column="13" selection-start-line="300" selection-start-column="13" selection-end-line="300" selection-end-column="13" />
+            <state relative-caret-position="311">
+              <caret line="327" column="46" lean-forward="true" selection-start-line="327" selection-start-column="46" selection-end-line="327" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -43,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="800" />
     <option name="width" value="800" />
     <option name="height" value="866" />
@@ -251,11 +251,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527337083230</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Ship- method 1 and 2">
+      <created>1527337525644</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1527337525644</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1618" height="884" extended-state="6" />
+    <frame x="800" y="0" width="800" height="866" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5230179" />
@@ -263,7 +270,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928476" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33468285" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34301522" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -324,9 +331,17 @@
     <MESSAGE value="Factorials with While Loops" />
     <MESSAGE value="Factorials with For Loops" />
     <MESSAGE value="counts" />
-    <option name="LAST_COMMIT_MESSAGE" value="counts" />
+    <MESSAGE value="Ship- method 1 and 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ship- method 1 and 2" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ControlFlow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6069">
+          <caret line="289" column="34" selection-start-line="289" selection-start-column="34" selection-end-line="289" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ControlFlow.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2121">
@@ -395,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ControlFlow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="300" column="13" selection-start-line="300" selection-start-column="13" selection-end-line="300" selection-end-column="13" />
+        <state relative-caret-position="311">
+          <caret line="327" column="46" lean-forward="true" selection-start-line="327" selection-start-column="46" selection-end-line="327" selection-end-column="46" />
         </state>
       </provider>
     </entry>
