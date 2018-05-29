@@ -17,8 +17,8 @@
       <file leaf-file-name="Functions.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="42" column="79" selection-start-line="42" selection-start-column="79" selection-end-line="42" selection-end-column="79" />
+            <state relative-caret-position="186">
+              <caret line="35" column="83" selection-start-line="35" selection-start-column="83" selection-end-line="35" selection-end-column="83" />
             </state>
           </provider>
         </entry>
@@ -44,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="800" />
     <option name="width" value="800" />
     <option name="height" value="866" />
@@ -329,11 +329,25 @@
       <option name="project" value="LOCAL" />
       <updated>1527615858855</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Population Density Function">
+      <created>1527616508673</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1527616508673</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Return how many weeks and days mean an inputted int">
+      <created>1527616989523</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1527616989523</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="800" y="0" width="800" height="866" extended-state="0" />
+    <frame x="-9" y="-9" width="1618" height="884" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.28516623" />
@@ -341,7 +355,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928476" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34301522" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33468285" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -385,8 +399,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Bus ride cost" />
-    <MESSAGE value="Guess the number" />
     <MESSAGE value="States taxes" />
     <MESSAGE value="edit changes" />
     <MESSAGE value=" Air traffic control program" />
@@ -410,7 +422,9 @@
     <MESSAGE value="functions" />
     <MESSAGE value="my first function written in python" />
     <MESSAGE value="Print vs. Return in Functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Print vs. Return in Functions" />
+    <MESSAGE value="Population Density Function" />
+    <MESSAGE value="Return how many weeks and days mean an inputted int" />
+    <option name="LAST_COMMIT_MESSAGE" value="Return how many weeks and days mean an inputted int" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Functions.py">
@@ -502,8 +516,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="42" column="79" selection-start-line="42" selection-start-column="79" selection-end-line="42" selection-end-column="79" />
+        <state relative-caret-position="186">
+          <caret line="35" column="83" selection-start-line="35" selection-start-column="83" selection-end-line="35" selection-end-column="83" />
         </state>
       </provider>
     </entry>
