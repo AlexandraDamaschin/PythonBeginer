@@ -52,7 +52,12 @@ print("expected result: {}, actual result: {}".format(expected_result2, test2))
 
 # 4. Return how many weeks and days mean an inputted int
 def readable_timedelta(days):
-    # use integer division to get the number of weeks
+    """ Return a string of the number of weeks and days included in days.
+    Parameters:
+    days -- number of days to convert (int)
+    Returns:
+    string of the number of weeks and days included in days
+    """
     weeks = days // 7
     # use % to get the number of days that remain
     remainder = days % 7
