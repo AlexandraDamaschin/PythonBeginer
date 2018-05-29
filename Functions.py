@@ -98,3 +98,40 @@ cities = ["New York City", "Los Angeles", "Chicago", "Mountain View", "Denver", 
 # short_cities = list(filter(is_short, cities))
 short_cities = list(filter(lambda x: len(x) < 10, cities))
 print(short_cities)
+
+
+# 8. Iterators And Generators
+def my_range(x):
+    i = 0
+    while i < x:
+        yield i
+        i += 1
+
+
+for x in my_range(5):
+    print(x)
+
+# 9. Implement  generator function that works like the built-in function enumerate
+lessons = ["Why Python Programming", "Data Types and Operators", "Control Flow", "Functions", "Scripting"]
+
+
+def my_enumerate(iterable, start=0):
+    count = start
+    for element in iterable:
+        yield count, element
+        count += 1
+
+
+for i, lesson in my_enumerate(lessons, 1):
+    print("Lesson {}: {}".format(i, lesson))
+
+
+# 10. Chunker
+def chunker(iterable, size):
+    """Yield successive chunks from iterable of length size."""
+    for i in range(0, len(iterable), size):
+        yield iterable[i:i + size]
+
+
+for chunk in chunker(range(25), 4):
+    print(list(chunk))
