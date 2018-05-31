@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab7fa44-398f-4e13-a834-795babad0b3d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/school_ message.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripting.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,11 +23,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Scripting.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Scripting.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scripting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            <state relative-caret-position="172">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="school_ message.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/school_ message.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -52,6 +61,7 @@
         <option value="$PROJECT_DIR$/Functions.py" />
         <option value="$PROJECT_DIR$/Scripts/Scripting.py" />
         <option value="$PROJECT_DIR$/Scripting.py" />
+        <option value="$PROJECT_DIR$/school_ message.py" />
       </list>
     </option>
   </component>
@@ -84,7 +94,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Scripting.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/school_ message.py" />
     <property name="settings.editor.selected.configurable" value="ics" />
   </component>
   <component name="RunDashboard">
@@ -112,7 +122,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/school_ message.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -410,7 +420,21 @@
       <option name="project" value="LOCAL" />
       <updated>1527794548869</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="input data">
+      <created>1527795010904</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1527795010904</updated>
+    </task>
+    <task id="LOCAL-00042" summary="input data">
+      <created>1527795141490</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1527795141490</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -466,7 +490,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" Iterating through html items" />
     <MESSAGE value="Iterating Through Dictionaries with For Loops" />
     <MESSAGE value="Count by iterating through the list" />
     <MESSAGE value="Fruit or not fruit" />
@@ -491,7 +514,8 @@
     <MESSAGE value="Generator Expressions" />
     <MESSAGE value="first script from cmd" />
     <MESSAGE value="snakes" />
-    <option name="LAST_COMMIT_MESSAGE" value="snakes" />
+    <MESSAGE value="input data" />
+    <option name="LAST_COMMIT_MESSAGE" value="input data" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Functions.py">
@@ -593,8 +617,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        <state relative-caret-position="172">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/school_ message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
         </state>
       </provider>
     </entry>
