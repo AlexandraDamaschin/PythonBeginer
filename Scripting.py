@@ -30,3 +30,7 @@ print(num)
 # 5.Input float transformed to int
 numb = int(float(input('Please, Enter a number')))
 print(numb)
+
+# 6. Input expression
+x = eval(input('Enter an expression: '))
+print(x)
