@@ -34,3 +34,13 @@ print(numb)
 # 6. Input expression
 x = eval(input('Enter an expression: '))
 print(x)
+
+# 7.Try statement
+while True:
+    try:
+        x = int(input('Please enter a number:'))
+        break
+    except:
+        print('That`\s not a valid number! Try again')
+    finally:
+        print('\n Attempted Input')
