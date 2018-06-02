@@ -43,5 +43,7 @@ while True:
     #     if we don`t specify type of error, project will never stop
     except ValueError:
         print('That`\s not a valid number! Try again')
+    except KeyboardInterrupt:
+        print('\n No input taken')
     finally:
         print('\n Attempted Input')
