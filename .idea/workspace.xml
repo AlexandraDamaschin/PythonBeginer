@@ -17,8 +17,8 @@
       <file leaf-file-name="Scripting.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Scripting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="231">
+              <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -428,11 +428,32 @@
       <option name="project" value="LOCAL" />
       <updated>1527795908933</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Try statement">
+      <created>1527942379049</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1527942379049</updated>
+    </task>
+    <task id="LOCAL-00045" summary="if we don`t specify type of error, project will never stop">
+      <created>1527942460665</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1527942460665</updated>
+    </task>
+    <task id="LOCAL-00046" summary="exceptions, exceptions">
+      <created>1527942554397</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1527942554397</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="800" y="0" width="800" height="866" extended-state="0" />
+    <frame x="-9" y="-9" width="1618" height="884" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.31202045" />
@@ -440,7 +461,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928476" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32928476" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28077456" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27395412" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.80701756" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -484,9 +505,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Count by iterating through the list" />
-    <MESSAGE value="Fruit or not fruit" />
-    <MESSAGE value="Factorials with While Loops" />
     <MESSAGE value="Factorials with For Loops" />
     <MESSAGE value="counts" />
     <MESSAGE value="Ship- method 1 and 2" />
@@ -509,7 +527,10 @@
     <MESSAGE value="snakes" />
     <MESSAGE value="input data" />
     <MESSAGE value="remainder" />
-    <option name="LAST_COMMIT_MESSAGE" value="remainder" />
+    <MESSAGE value="Try statement" />
+    <MESSAGE value="if we don`t specify type of error, project will never stop" />
+    <MESSAGE value="exceptions, exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="exceptions, exceptions" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Scripting.py">
@@ -623,8 +644,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="231">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
         </state>
       </provider>
     </entry>
