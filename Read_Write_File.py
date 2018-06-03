@@ -26,3 +26,9 @@ with open('hello_file', 'r') as f:
     file_data = f.read()
     print(file_data)
 # here the file is already closed
+
+# Read a certain amount from the file
+with open("camelot.txt") as song:
+    print(song.read(2))
+    print(song.read(8))
+    print(song.read())

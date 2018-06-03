@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab7fa44-398f-4e13-a834-795babad0b3d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/camelot.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Read_Write_File.py" beforeDir="false" afterPath="$PROJECT_DIR$/Read_Write_File.py" afterDir="false" />
     </list>
@@ -17,17 +18,8 @@
       <file leaf-file-name="Read_Write_File.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Read_Write_File.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hello_file2.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello_file2.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="18" selection-end-column="23" />
+            <state relative-caret-position="420">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -59,11 +51,12 @@
         <option value="$PROJECT_DIR$/school_ message.py" />
         <option value="$PROJECT_DIR$/Scripting.py" />
         <option value="$PROJECT_DIR$/hello_file" />
+        <option value="$PROJECT_DIR$/camelot.txt" />
         <option value="$PROJECT_DIR$/Read_Write_File.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="800" />
     <option name="width" value="800" />
     <option name="height" value="866" />
@@ -137,13 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526842500959</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Odd and Even numbers">
-      <created>1527185846504</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1527185846504</updated>
     </task>
     <task id="LOCAL-00003" summary="Bus ride cost">
       <created>1527185909167</created>
@@ -481,19 +467,26 @@
       <option name="project" value="LOCAL" />
       <updated>1528037818674</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="With = open and close a file">
+      <created>1528038097825</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1528038097825</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="0" width="800" height="866" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31202045" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31202045" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928476" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32928476" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28077456" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28077456" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.80701756" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -537,7 +530,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zip" />
     <MESSAGE value="Enumerate" />
     <MESSAGE value="Enumerate exercises" />
     <MESSAGE value="List Comprehensions" />
@@ -562,7 +554,8 @@
     <MESSAGE value="reading from a file" />
     <MESSAGE value="Write to a file" />
     <MESSAGE value="Writing to an existing file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Writing to an existing file" />
+    <MESSAGE value="With = open and close a file" />
+    <option name="LAST_COMMIT_MESSAGE" value="With = open and close a file" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Scripting.py">
@@ -691,14 +684,21 @@
     <entry file="file://$PROJECT_DIR$/hello_file2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="23" selection-start-column="18" selection-end-column="23" />
+          <caret column="36" lean-forward="true" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camelot.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Read_Write_File.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        <state relative-caret-position="420">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
         </state>
       </provider>
     </entry>
