@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab7fa44-398f-4e13-a834-795babad0b3d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Read_Write_File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_file" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripting.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Scripting.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Scripting.py">
+      <file leaf-file-name="Read_Write_File.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Read_Write_File.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+            <state relative-caret-position="126">
+              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -49,10 +50,12 @@
         <option value="$PROJECT_DIR$/Scripts/Scripting.py" />
         <option value="$PROJECT_DIR$/school_ message.py" />
         <option value="$PROJECT_DIR$/Scripting.py" />
+        <option value="$PROJECT_DIR$/hello_file" />
+        <option value="$PROJECT_DIR$/Read_Write_File.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="800" />
     <option name="width" value="800" />
     <option name="height" value="866" />
@@ -81,7 +84,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Scripting.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Read_Write_File.py" />
     <property name="settings.editor.selected.configurable" value="ics" />
   </component>
   <component name="RunDashboard">
@@ -109,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Read_Write_File.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -449,14 +452,21 @@
       <option name="project" value="LOCAL" />
       <updated>1527942554397</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Party cookies example">
+      <created>1527942854131</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1527942854131</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1618" height="884" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.31202045" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1525" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928476" />
@@ -505,7 +515,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Factorials with For Loops" />
     <MESSAGE value="counts" />
     <MESSAGE value="Ship- method 1 and 2" />
     <MESSAGE value=" Break the string" />
@@ -530,7 +539,8 @@
     <MESSAGE value="Try statement" />
     <MESSAGE value="if we don`t specify type of error, project will never stop" />
     <MESSAGE value="exceptions, exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="exceptions, exceptions" />
+    <MESSAGE value="Party cookies example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Party cookies example" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Scripting.py">
@@ -642,10 +652,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hello_file">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Scripting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        <state relative-caret-position="24">
+          <caret line="47" column="12" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Read_Write_File.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
