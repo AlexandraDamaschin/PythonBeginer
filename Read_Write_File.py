@@ -13,3 +13,9 @@ print(file_data)
 f = open('hello_file2.txt', 'w')
 f.write("Hello there!")
 f.close()
+
+# Writing to an existing file
+# without deleting what it`s inside
+f = open('hello_file2.txt', 'a')
+f.write("Hello there from append!")
+f.close()
