@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab7fa44-398f-4e13-a834-795babad0b3d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/password_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Read_Write_File.py" beforeDir="false" afterPath="$PROJECT_DIR$/Read_Write_File.py" afterDir="false" />
     </list>
@@ -14,11 +16,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Read_Write_File.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Read_Write_File.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Read_Write_File.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="84" column="52" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="52" />
+            <state relative-caret-position="375">
+              <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="password_generator.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/password_generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="words.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/words.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -63,10 +83,12 @@
         <option value="$PROJECT_DIR$/flying_circus_cast" />
         <option value="$PROJECT_DIR$/useful_functions.py" />
         <option value="$PROJECT_DIR$/Read_Write_File.py" />
+        <option value="$PROJECT_DIR$/password_generator.py" />
+        <option value="$PROJECT_DIR$/words.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="800" />
     <option name="width" value="800" />
     <option name="height" value="866" />
@@ -95,7 +117,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Read_Write_File.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/password_generator.py" />
     <property name="settings.editor.selected.configurable" value="ics" />
   </component>
   <component name="RunDashboard">
@@ -123,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Read_Write_File.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/password_generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,13 +162,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526842500959</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Prizes">
-      <created>1527327184290</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1527327184290</updated>
     </task>
     <task id="LOCAL-00011" summary="For loops">
       <created>1527328576433</created>
@@ -484,19 +499,26 @@
       <option name="project" value="LOCAL" />
       <updated>1528040891584</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="print e to the power of 3 using the math module">
+      <created>1528041181399</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1528041181399</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1618" height="884" extended-state="6" />
+    <frame x="800" y="0" width="800" height="866" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31202045" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928476" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32928476" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27395412" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28077456" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.80701756" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -540,7 +562,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Print vs. Return in Functions" />
     <MESSAGE value="Population Density Function" />
     <MESSAGE value="Return how many weeks and days mean an inputted int" />
     <MESSAGE value="docstrings" />
@@ -565,7 +586,8 @@
     <MESSAGE value="numbers" />
     <MESSAGE value="Importing Local Scripts" />
     <MESSAGE value="Import standard libraries" />
-    <option name="LAST_COMMIT_MESSAGE" value="Import standard libraries" />
+    <MESSAGE value="print e to the power of 3 using the math module" />
+    <option name="LAST_COMMIT_MESSAGE" value="print e to the power of 3 using the math module" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Scripting.py">
@@ -721,8 +743,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Read_Write_File.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="84" column="52" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="52" />
+        <state relative-caret-position="375">
+          <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/password_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
         </state>
       </provider>
     </entry>
