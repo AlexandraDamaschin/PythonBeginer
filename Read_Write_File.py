@@ -40,3 +40,23 @@ with open("camelot.txt") as f:
         camelot_lines.append(line.strip())
 
 print(camelot_lines)
+
+
+# Flying circus cast example
+def create_cast_list(filename):
+    cast_list = []
+    # use with to open the file filename
+    with open(filename) as f:
+        # use the for loop syntax to process each line
+        for line in f:
+            # and add the actor name to cast_list
+            name = line.split(",")[0]
+            cast_list.append(name)
+
+    return cast_list
+
+
+# defining the name of the file
+cast_list = create_cast_list('flying_circus_cast')
+for actor in cast_list:
+    print(actor)
