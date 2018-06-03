@@ -81,3 +81,6 @@ print(uf.__name__)
 import math
 
 print(math.factorial(4))
+
+# 9. print e to the power of 3 using the math module
+print(math.exp(3))

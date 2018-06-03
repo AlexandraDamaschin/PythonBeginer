@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab7fa44-398f-4e13-a834-795babad0b3d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/useful_functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Read_Write_File.py" beforeDir="false" afterPath="$PROJECT_DIR$/Read_Write_File.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,20 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Read_Write_File.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Read_Write_File.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Read_Write_File.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+            <state relative-caret-position="396">
+              <caret line="84" column="52" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="useful_functions.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="useful_functions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/useful_functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="462">
+              <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -61,12 +61,12 @@
         <option value="$PROJECT_DIR$/hello_file" />
         <option value="$PROJECT_DIR$/camelot.txt" />
         <option value="$PROJECT_DIR$/flying_circus_cast" />
-        <option value="$PROJECT_DIR$/Read_Write_File.py" />
         <option value="$PROJECT_DIR$/useful_functions.py" />
+        <option value="$PROJECT_DIR$/Read_Write_File.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="800" />
     <option name="width" value="800" />
     <option name="height" value="866" />
@@ -140,20 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526842500959</updated>
-    </task>
-    <task id="LOCAL-00008" summary="edit changes">
-      <created>1527198311439</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1527198311439</updated>
-    </task>
-    <task id="LOCAL-00009" summary=" Air traffic control program">
-      <created>1527326935742</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1527326935742</updated>
     </task>
     <task id="LOCAL-00010" summary="Prizes">
       <created>1527327184290</created>
@@ -484,19 +470,33 @@
       <option name="project" value="LOCAL" />
       <updated>1528040648367</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Importing Local Scripts">
+      <created>1528040733533</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1528040733533</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Import standard libraries">
+      <created>1528040891581</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1528040891584</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="800" y="0" width="800" height="866" extended-state="0" />
+    <frame x="-9" y="-9" width="1618" height="884" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31202045" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1525" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928476" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32928476" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28077456" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27395412" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.80701756" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -540,8 +540,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="functions" />
-    <MESSAGE value="my first function written in python" />
     <MESSAGE value="Print vs. Return in Functions" />
     <MESSAGE value="Population Density Function" />
     <MESSAGE value="Return how many weeks and days mean an inputted int" />
@@ -565,7 +563,9 @@
     <MESSAGE value=".strip()= remove newline character attached" />
     <MESSAGE value=" Flying circus cast example" />
     <MESSAGE value="numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="numbers" />
+    <MESSAGE value="Importing Local Scripts" />
+    <MESSAGE value="Import standard libraries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Import standard libraries" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Scripting.py">
@@ -712,17 +712,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Read_Write_File.py">
+    <entry file="file://$PROJECT_DIR$/useful_functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        <state relative-caret-position="462">
+          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/useful_functions.py">
+    <entry file="file://$PROJECT_DIR$/Read_Write_File.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="396">
+          <caret line="84" column="52" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="52" />
         </state>
       </provider>
     </entry>
