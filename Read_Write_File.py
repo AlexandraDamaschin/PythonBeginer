@@ -19,3 +19,10 @@ f.close()
 f = open('hello_file2.txt', 'a')
 f.write("Hello there from append!")
 f.close()
+
+# With = open and close a file
+with open('hello_file', 'r') as f:
+    # read is executing just in this block
+    file_data = f.read()
+    print(file_data)
+# here the file is already closed

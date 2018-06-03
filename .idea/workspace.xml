@@ -17,8 +17,17 @@
       <file leaf-file-name="Read_Write_File.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Read_Write_File.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            <state relative-caret-position="402">
+              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hello_file2.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hello_file2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="23" selection-start-column="18" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -54,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="800" />
     <option name="width" value="800" />
     <option name="height" value="866" />
@@ -128,13 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526842500959</updated>
-    </task>
-    <task id="LOCAL-00001" summary="IF ELIF ELSE">
-      <created>1527185584566</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1527185584566</updated>
     </task>
     <task id="LOCAL-00002" summary="Odd and Even numbers">
       <created>1527185846504</created>
@@ -465,7 +467,21 @@
       <option name="project" value="LOCAL" />
       <updated>1528037480625</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Write to a file">
+      <created>1528037754955</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1528037754955</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Writing to an existing file">
+      <created>1528037818673</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1528037818674</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -521,8 +537,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ship- method 1 and 2" />
-    <MESSAGE value=" Break the string" />
     <MESSAGE value="Zip" />
     <MESSAGE value="Enumerate" />
     <MESSAGE value="Enumerate exercises" />
@@ -546,7 +560,9 @@
     <MESSAGE value="exceptions, exceptions" />
     <MESSAGE value="Party cookies example" />
     <MESSAGE value="reading from a file" />
-    <option name="LAST_COMMIT_MESSAGE" value="reading from a file" />
+    <MESSAGE value="Write to a file" />
+    <MESSAGE value="Writing to an existing file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Writing to an existing file" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Scripting.py">
@@ -672,10 +688,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hello_file2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Read_Write_File.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        <state relative-caret-position="402">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
         </state>
       </provider>
     </entry>
