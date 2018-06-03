@@ -1,4 +1,4 @@
-# Read from a file
+# 1.Read from a file
 # specify path and r-read only(by default)
 f = open('hello_file', 'r')
 file_data = f.read()
@@ -14,26 +14,26 @@ f = open('hello_file2.txt', 'w')
 f.write("Hello there!")
 f.close()
 
-# Writing to an existing file
+# 2.Writing to an existing file
 # without deleting what it`s inside
 f = open('hello_file2.txt', 'a')
 f.write("Hello there from append!")
 f.close()
 
-# With = open and close a file
+# 3.With = open and close a file
 with open('hello_file', 'r') as f:
     # read is executing just in this block
     file_data = f.read()
     print(file_data)
 # here the file is already closed
 
-# Read a certain amount from the file
+# 4.Read a certain amount from the file
 with open("camelot.txt") as song:
     print(song.read(2))
     print(song.read(8))
     print(song.read())
 
-# .strip()= remove newline character attached
+# 5. .strip()= remove newline character attached
 camelot_lines = []
 with open("camelot.txt") as f:
     for line in f:
@@ -42,7 +42,7 @@ with open("camelot.txt") as f:
 print(camelot_lines)
 
 
-# Flying circus cast example
+# 6.Flying circus cast example
 def create_cast_list(filename):
     cast_list = []
     # use with to open the file filename
@@ -60,3 +60,5 @@ def create_cast_list(filename):
 cast_list = create_cast_list('flying_circus_cast')
 for actor in cast_list:
     print(actor)
+
+# 7.Importing Local Scripts
