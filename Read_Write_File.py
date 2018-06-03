@@ -76,3 +76,8 @@ print("Original Mean:", mean, " New Mean:", mean_c)
 
 print(__name__)
 print(uf.__name__)
+
+# 8. Import standard libraries
+import math
+
+print(math.factorial(4))
